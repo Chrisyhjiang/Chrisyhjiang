@@ -37,17 +37,23 @@ Welcome to my GitHub profile! I'm passionate about software development, problem
 - Debugging & Testing
 - Agile Methodologies
 
-<!--
-**Chrisyhjiang/Chrisyhjiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Achievements
 
-Here are some ideas to get you started:
+- **UofTHacks 12 Best Security Hack Sponsored by 1Password**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Fun Facts
+
+- I love solving coding challenges on platforms like **LeetCode** and **HackerRank**.
+- Outside of coding, I enjoy travelling, play basketball and reading.
+- I am currently learning ReactJs and SpringBoot.
+
+## 🤝 Connect With Me
+
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out!
+
+- **Email:** [chrisyh.jiang@gmail.com](mailto:chrisyh.jiang@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/christopher-yihan-jiang/](https://www.linkedin.com/in/christopher-yihan-jiang/)
+- **Portfolio:** [https://chrisjiang.net/](https://chrisjiang.net/)
+
+Thank you for visiting my profile! 😊  
+Let's build something amazing together! 🚀
