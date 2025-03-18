@@ -37,6 +37,10 @@ Welcome to my GitHub profile! I'm passionate about software development, problem
 - Debugging & Testing
 - Agile Methodologies
 
+![Christopher Jiang GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chrisyhjiang&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisyhjiang&layout=compact&theme=radical)
+
 ## 🎯 Achievements
 
 - **UofTHacks 12 Best Security Hack Sponsored by 1Password**
