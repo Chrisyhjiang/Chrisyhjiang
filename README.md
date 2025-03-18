@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Christoher Jiang
+# Hi there 👋 I'm Christopher Jiang
 
 ## 🎓 Computer Science Student at the [University of Waterloo](https://uwaterloo.ca)
 
